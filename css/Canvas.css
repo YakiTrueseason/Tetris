@@ -1,0 +1,15 @@
+body {
+    background: #111;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+canvas {
+    border: 2px solid white;
+    background: black;
+}
+
+h1 {
+    color: aqua;
+}
