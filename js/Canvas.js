@@ -5,7 +5,6 @@ const ctx = canvas.getContext("2d");
 const BLOCK_SIZE = 20;
 
 ctx.scale(BLOCK_SIZE, BLOCK_SIZE);
-
 // 盤面を作る
 const ROW = 20;
 const COL = 12;
