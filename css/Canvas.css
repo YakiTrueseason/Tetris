@@ -13,3 +13,17 @@ canvas {
 h1 {
     color: aqua;
 }
+
+h3 {
+    color: aquamarine;
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+
+p {
+    color: azure;
+    position: relative;
+    top: 50px;
+    right: 30px;
+}
