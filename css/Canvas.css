@@ -8,6 +8,9 @@ body {
 canvas {
     border: 2px solid white;
     background: black;
+    position: relative;
+    left: -50px;
+    top: 150px;
 }
 
 h1 {
@@ -21,9 +24,16 @@ h3 {
     left: 40px;
 }
 
+h4 {
+    color: powderblue;
+    position: relative;
+    top: 40px;
+    left: -30px;
+}
+
 p {
     color: azure;
     position: relative;
     top: 50px;
-    right: 30px;
+    left: -100px;
 }
